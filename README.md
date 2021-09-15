@@ -3,9 +3,9 @@ Arduino program with SVC machine learning model generated in Colab and exported 
 
 # Autores: 
 
-Benjamín Villegas Méndez 
-Jared Walter Llanos Olmedo
-Ariel Victor Cordoba Flores
+## Benjamín Villegas Méndez 
+## Jared Walter Llanos Olmedo
+## Ariel Victor Cordoba Flores
 
 # Correo: benjorocker94@gmail.com
 
