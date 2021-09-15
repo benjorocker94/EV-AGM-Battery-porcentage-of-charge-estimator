@@ -35,6 +35,6 @@ archivo ".h" para importarlo como libreria desde el entorno de programacion de A
 - Switch selector
 - Conectores Varios
 
-La conexión debe realizarse como en los diagramas esquematicos para su correcto uso.
+La conexión debe realizarse como en los diagramas esquematicos (pdf´s) para su correcto uso.
 
 
